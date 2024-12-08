@@ -1,4 +1,9 @@
 # Bouncing Ball Simulation
+## Purpose
+Bouncy Simulation is a fun and interactive physics-based simulation built with Python's turtle module. It showcases gravity-driven bouncing balls that react dynamically to collisions with the floor and walls. Each ball has unique properties like size, color, and velocity, creating a visually captivating experience.
+
+
+## Code
 ```
 Bouncy Simulation
 
