@@ -1,5 +1,5 @@
 # Bouncing Ball Simulation
-# Bouncy Simulation
+Bouncy Simulation
 
 import turtle
 import random
@@ -42,7 +42,7 @@ class Ball(turtle.Turtle):
             self.setx(wall_x * sign)
 
 
-# SIMULATION CODE
+SIMULATION CODE
 width = 1200
 height = 800
 
