@@ -1,4 +1,5 @@
 # Bouncing Ball Simulation
+'''
 Bouncy Simulation
 
 import turtle
@@ -65,7 +66,7 @@ while True:
         ball.bounce_floor(-height/2)
         ball.bounce_walls(width/2)
     window.update()
-
+'''
 
 
 
